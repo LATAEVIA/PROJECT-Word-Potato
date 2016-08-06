@@ -6,15 +6,15 @@
 
 ## Description
 
-_This a dynamic, mobile friendly webpage, conceived by Connor Cummings as an end-of-week team project for our fifth week at Epicodus. It uses HTML, CSS, Bootstrap, JavaScript and jQuery, and functions as a website for a timed word guessing game prompting two teams of at least two people each to play._
+_This is a dynamic, mobile friendly webpage, conceived as an end-of-week team project for our fifth week at Epicodus. It uses HTML, CSS, Bootstrap, JavaScript and jQuery, and functions as a website for a timed word guessing game prompting two teams of at least two people each to play._
 
 ## Setup/Installation Requirements
 
-* _Clone through Terminal using git clone https://github.com/oregonized44/CatchPhrase_
+* _Clone through Terminal using git clone https://github.com/LATAEVIA/PROJECT-Word-Potato.git_
 * _Project Files will be in your Downloads folder_
 * _Open files in any text editor to view source code_
 * _Open index.html in any browser to enjoy_
-* _Also viewable at http://oregonized44.github.io/CatchPhrase/
+* _Available online at http://lataevia.github.io/PROJECT-Word-Potato/_
 
 ## Technologies Used
 
