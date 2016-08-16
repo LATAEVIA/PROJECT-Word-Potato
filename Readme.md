@@ -10,11 +10,11 @@ _This is a dynamic, mobile friendly webpage, conceived as an end-of-week team pr
 
 ## Setup/Installation Requirements
 
-* _Clone through Terminal using git clone https://github.com/LATAEVIA/PROJECT-Word-Potato.git_
+* _Clone through Terminal using git clone https://github.com/LATAEVIA/Word-Potato.git_
 * _Project Files will be in your Downloads folder_
 * _Open files in any text editor to view source code_
 * _Open index.html in any browser to enjoy_
-* _Available online at http://lataevia.github.io/PROJECT-Word-Potato/_
+* _Available online at http://lataevia.github.io/Word-Potato/_
 
 ## Technologies Used
 
